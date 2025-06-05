@@ -10,8 +10,7 @@ while tickets_sold<MAX_TICKETS:
         break
     else:
         tickets_sold +=1
-
-
+#comment
 if tickets_sold==MAX_TICKETS:
     print("Congrats. You have sold all the tickets")
 else:
